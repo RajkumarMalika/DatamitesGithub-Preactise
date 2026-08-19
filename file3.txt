@@ -1,0 +1,2 @@
+# git checkout branchname   or   git switch branchname   ----->  ( used to switch to the diffrent branch spesified in the command)
+
